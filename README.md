@@ -1,6 +1,5 @@
-## **README.md Descontraído para sua Aplicação de Filmes Românticos**
+## Projeto Imersão Dev com o Google Gemini - Site de Pesquisa 
 
-### ** Descubra seu Próximo Filme Romântico Favorito! **
 
 **O que essa aplicação faz?**
 
@@ -24,7 +23,6 @@ Já pensou em ter uma lista personalizada de comédias românticas, tudo a um cl
 2. **Abra o index.html:** Use seu navegador favorito para abrir o arquivo index.html.
 3. **Comece a pesquisar:** Digite o nome do filme e aperte o botão "Pesquisar".
 
-**Dica extra:** Tente buscar por atores, diretores ou até mesmo palavras-chave como "comédia romântica dos anos 90". 
 
 **Contribuindo:**
 
@@ -34,13 +32,6 @@ Quer ajudar a melhorar a aplicação? Sinta-se à vontade para abrir um pull req
 
 **Vamos juntos transformar a sua experiência com comédias românticas! ❤️**
 
-**#comédiaromântica #filmes #programação #HTML #CSS #JavaScript**
 
-**Observações:**
 
-* **Personalize:** Adapte este README para o seu projeto, adicionando mais detalhes sobre a sua base de dados de filmes, funcionalidades extras, ou qualquer outra informação relevante.
-* **Imagens:** Inclua imagens para deixar o README mais atrativo e visualmente interessante.
-* **GIFs:** GIFs animados podem ser uma ótima maneira de demonstrar como a aplicação funciona.
-* **Emojis:** Use emojis para tornar o texto mais divertido e fácil de ler.
 
-**Lembre-se:** O objetivo de um README é explicar de forma clara e concisa o que o projeto faz e como utilizá-lo. Quanto mais simples e intuitivo, melhor!
